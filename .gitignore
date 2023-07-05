@@ -1,2 +1,3 @@
-**/Task1/obj
-**/Task1/bin
+**/obj
+**/bin
+**/.vs
